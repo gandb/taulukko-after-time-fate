@@ -1,5 +1,5 @@
-2024/04/12-18:50:02.542 98a8 Recovering log #125
-2024/04/12-18:50:02.543 98a8 Level-0 table #127: started
-2024/04/12-18:50:02.559 98a8 Level-0 table #127: 3907 bytes OK
-2024/04/12-18:50:02.567 98a8 Delete type=0 #125
-2024/04/12-18:50:02.568 98a8 Delete type=3 #124
+2024/04/12-19:37:30.813 2d6c Recovering log #128
+2024/04/12-19:37:30.813 2d6c Level-0 table #130: started
+2024/04/12-19:37:30.833 2d6c Level-0 table #130: 1006 bytes OK
+2024/04/12-19:37:30.842 2d6c Delete type=0 #128
+2024/04/12-19:37:30.842 2d6c Delete type=3 #126
