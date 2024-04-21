@@ -1,5 +1,16 @@
-2024/04/17-19:49:41.155 8918 Recovering log #66
-2024/04/17-19:49:41.161 8918 Level-0 table #68: started
-2024/04/17-19:49:41.192 8918 Level-0 table #68: 334321 bytes OK
-2024/04/17-19:49:41.196 8918 Delete type=0 #66
-2024/04/17-19:49:41.198 8918 Delete type=3 #65
+2024/04/20-13:29:32.648 4084 Recovering log #76
+2024/04/20-13:29:32.654 4084 Delete type=0 #76
+2024/04/20-13:29:32.654 4084 Delete type=3 #75
+2024/04/20-17:37:26.665 5ffc Level-0 table #80: started
+2024/04/20-17:37:26.701 5ffc Level-0 table #80: 129606 bytes OK
+2024/04/20-17:37:26.703 5ffc Delete type=0 #78
+2024/04/20-17:37:26.706 5ffc Manual compaction at level-0 from '!adventures!LBwSQL2KIXRF0qf6' @ 72057594037927935 : 1 .. '!adventures!W6HJlT1enAlCx4Uh' @ 0 : 0; will stop at '!adventures!W6HJlT1enAlCx4Uh' @ 19 : 1
+2024/04/20-17:37:26.706 5ffc Compacting 3@0 + 1@1 files
+2024/04/20-17:37:26.741 5ffc Generated table #81@0: 2 keys, 136192 bytes
+2024/04/20-17:37:26.741 5ffc Compacted 3@0 + 1@1 files => 136192 bytes
+2024/04/20-17:37:26.743 5ffc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/20-17:37:26.744 5ffc Delete type=2 #62
+2024/04/20-17:37:26.745 5ffc Delete type=2 #68
+2024/04/20-17:37:26.746 5ffc Delete type=2 #73
+2024/04/20-17:37:26.749 5ffc Delete type=2 #80
+2024/04/20-17:37:26.749 5ffc Manual compaction at level-0 from '!adventures!W6HJlT1enAlCx4Uh' @ 19 : 1 .. '!adventures!W6HJlT1enAlCx4Uh' @ 0 : 0; will stop at (end)
