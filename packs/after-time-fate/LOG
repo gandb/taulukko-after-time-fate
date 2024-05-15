@@ -1,14 +1,17 @@
-2024/05/13-17:25:52.113 67cc Recovering log #216
-2024/05/13-17:25:52.125 67cc Delete type=0 #216
-2024/05/13-17:25:52.127 67cc Delete type=3 #214
-2024/05/13-17:47:44.656 7498 Level-0 table #221: started
-2024/05/13-17:47:44.732 7498 Level-0 table #221: 281348 bytes OK
-2024/05/13-17:47:44.740 7498 Delete type=0 #219
-2024/05/13-17:47:44.743 7498 Manual compaction at level-0 from '!adventures!LBwSQL2KIXRF0qf6' @ 72057594037927935 : 1 .. '!adventures!W6HJlT1enAlCx4Uh' @ 0 : 0; will stop at '!adventures!W6HJlT1enAlCx4Uh' @ 36 : 1
-2024/05/13-17:47:44.743 7498 Compacting 1@0 + 1@1 files
-2024/05/13-17:47:44.796 7498 Generated table #222@0: 2 keys, 155370 bytes
-2024/05/13-17:47:44.796 7498 Compacted 1@0 + 1@1 files => 155370 bytes
-2024/05/13-17:47:44.797 7498 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/13-17:47:44.798 7498 Delete type=2 #207
-2024/05/13-17:47:44.798 7498 Delete type=2 #221
-2024/05/13-17:47:44.798 7498 Manual compaction at level-0 from '!adventures!W6HJlT1enAlCx4Uh' @ 36 : 1 .. '!adventures!W6HJlT1enAlCx4Uh' @ 0 : 0; will stop at (end)
+2024/05/15-18:29:25.360 6614 Recovering log #224
+2024/05/15-18:29:25.363 6614 Level-0 table #226: started
+2024/05/15-18:29:25.408 6614 Level-0 table #226: 442741 bytes OK
+2024/05/15-18:29:25.415 6614 Delete type=0 #224
+2024/05/15-18:29:25.415 6614 Delete type=3 #223
+2024/05/15-19:11:33.944 4044 Level-0 table #229: started
+2024/05/15-19:11:34.002 4044 Level-0 table #229: 168876 bytes OK
+2024/05/15-19:11:34.005 4044 Delete type=0 #227
+2024/05/15-19:11:34.011 4044 Manual compaction at level-0 from '!adventures!LBwSQL2KIXRF0qf6' @ 72057594037927935 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at '!adventures!uyURymE33uOnE85t' @ 40 : 1
+2024/05/15-19:11:34.011 4044 Compacting 2@0 + 1@1 files
+2024/05/15-19:11:34.060 4044 Generated table #230@0: 3 keys, 168876 bytes
+2024/05/15-19:11:34.060 4044 Compacted 2@0 + 1@1 files => 168876 bytes
+2024/05/15-19:11:34.062 4044 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/15-19:11:34.062 4044 Delete type=2 #222
+2024/05/15-19:11:34.062 4044 Delete type=2 #226
+2024/05/15-19:11:34.062 4044 Delete type=2 #229
+2024/05/15-19:11:34.063 4044 Manual compaction at level-0 from '!adventures!uyURymE33uOnE85t' @ 40 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at (end)
