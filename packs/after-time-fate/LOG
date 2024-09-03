@@ -1,16 +1,14 @@
-2024/08/23-07:14:03.157 72bc Recovering log #724
-2024/08/23-07:14:03.159 72bc Level-0 table #726: started
-2024/08/23-07:14:03.186 72bc Level-0 table #726: 121745 bytes OK
-2024/08/23-07:14:03.189 72bc Delete type=0 #724
-2024/08/23-07:14:03.189 72bc Delete type=3 #723
-2024/08/23-07:14:29.647 5ed4 Level-0 table #729: started
-2024/08/23-07:14:29.647 5ed4 Level-0 table #729: 0 bytes OK
-2024/08/23-07:14:29.649 5ed4 Delete type=0 #727
-2024/08/23-07:14:29.650 5ed4 Manual compaction at level-0 from '!adventures!LBwSQL2KIXRF0qf6' @ 72057594037927935 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at '!adventures!uyURymE33uOnE85t' @ 123 : 1
-2024/08/23-07:14:29.650 5ed4 Compacting 1@0 + 1@1 files
-2024/08/23-07:14:29.751 5ed4 Generated table #730@0: 3 keys, 408525 bytes
-2024/08/23-07:14:29.756 5ed4 Compacted 1@0 + 1@1 files => 408525 bytes
-2024/08/23-07:14:29.759 5ed4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/08/23-07:14:29.759 5ed4 Delete type=2 #720
-2024/08/23-07:14:29.759 5ed4 Delete type=2 #726
-2024/08/23-07:14:29.759 5ed4 Manual compaction at level-0 from '!adventures!uyURymE33uOnE85t' @ 123 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at (end)
+2024/09/03-07:16:42.781 62dc Recovering log #771
+2024/09/03-07:16:42.791 62dc Delete type=0 #771
+2024/09/03-07:16:42.791 62dc Delete type=3 #769
+2024/09/03-07:21:38.466 6fc0 Level-0 table #777: started
+2024/09/03-07:21:38.528 6fc0 Level-0 table #777: 194136 bytes OK
+2024/09/03-07:21:38.529 6fc0 Delete type=0 #775
+2024/09/03-07:21:38.543 6fc0 Manual compaction at level-0 from '!adventures!LBwSQL2KIXRF0qf6' @ 72057594037927935 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at '!adventures!W6HJlT1enAlCx4Uh' @ 131 : 1
+2024/09/03-07:21:38.543 6fc0 Compacting 1@0 + 1@1 files
+2024/09/03-07:21:38.628 6fc0 Generated table #778@0: 3 keys, 457764 bytes
+2024/09/03-07:21:38.628 6fc0 Compacted 1@0 + 1@1 files => 457764 bytes
+2024/09/03-07:21:38.634 6fc0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/03-07:21:38.635 6fc0 Delete type=2 #773
+2024/09/03-07:21:38.635 6fc0 Delete type=2 #777
+2024/09/03-07:21:38.635 6fc0 Manual compaction at level-0 from '!adventures!W6HJlT1enAlCx4Uh' @ 131 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at (end)
