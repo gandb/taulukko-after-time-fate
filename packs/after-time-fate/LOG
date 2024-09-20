@@ -1,14 +1,14 @@
-2024/09/19-11:47:07.891 4c0c Recovering log #816
-2024/09/19-11:47:07.894 4c0c Delete type=0 #816
-2024/09/19-11:47:07.894 4c0c Delete type=3 #814
-2024/09/19-11:57:51.995 4f0 Level-0 table #821: started
-2024/09/19-11:57:52.021 4f0 Level-0 table #821: 193917 bytes OK
-2024/09/19-11:57:52.023 4f0 Delete type=0 #819
-2024/09/19-11:57:52.024 4f0 Manual compaction at level-0 from '!adventures!LBwSQL2KIXRF0qf6' @ 72057594037927935 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at '!adventures!W6HJlT1enAlCx4Uh' @ 136 : 1
-2024/09/19-11:57:52.024 4f0 Compacting 1@0 + 1@1 files
-2024/09/19-11:57:52.067 4f0 Generated table #822@0: 3 keys, 459401 bytes
-2024/09/19-11:57:52.067 4f0 Compacted 1@0 + 1@1 files => 459401 bytes
-2024/09/19-11:57:52.068 4f0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/19-11:57:52.069 4f0 Delete type=2 #813
-2024/09/19-11:57:52.069 4f0 Delete type=2 #821
-2024/09/19-11:57:52.069 4f0 Manual compaction at level-0 from '!adventures!W6HJlT1enAlCx4Uh' @ 136 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at (end)
+2024/09/20-17:10:20.389 80dc Recovering log #825
+2024/09/20-17:10:20.392 80dc Delete type=0 #825
+2024/09/20-17:10:20.392 80dc Delete type=3 #823
+2024/09/20-17:15:36.040 1df0 Level-0 table #830: started
+2024/09/20-17:15:36.063 1df0 Level-0 table #830: 193841 bytes OK
+2024/09/20-17:15:36.064 1df0 Delete type=0 #828
+2024/09/20-17:15:36.064 1df0 Manual compaction at level-0 from '!adventures!LBwSQL2KIXRF0qf6' @ 72057594037927935 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at '!adventures!W6HJlT1enAlCx4Uh' @ 137 : 1
+2024/09/20-17:15:36.064 1df0 Compacting 1@0 + 1@1 files
+2024/09/20-17:15:36.103 1df0 Generated table #831@0: 3 keys, 459323 bytes
+2024/09/20-17:15:36.103 1df0 Compacted 1@0 + 1@1 files => 459323 bytes
+2024/09/20-17:15:36.104 1df0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/20-17:15:36.104 1df0 Delete type=2 #822
+2024/09/20-17:15:36.105 1df0 Delete type=2 #830
+2024/09/20-17:15:36.105 1df0 Manual compaction at level-0 from '!adventures!W6HJlT1enAlCx4Uh' @ 137 : 1 .. '!adventures!uyURymE33uOnE85t' @ 0 : 0; will stop at (end)
